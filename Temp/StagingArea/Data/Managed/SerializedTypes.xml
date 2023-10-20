@@ -1,0 +1,8 @@
+<linker>
+	<assembly fullname="LeanTouch">
+		<type fullname="Lean.Touch.LeanFingerFilter" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.XR.OpenXR.Features.MetaQuestSupport">
+		<type fullname="UnityEngine.XR.OpenXR.Features.MetaQuestSupport.MetaQuestFeature/TargetDevice" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
